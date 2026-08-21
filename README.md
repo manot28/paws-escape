@@ -2,7 +2,7 @@
 
 A cozy 2D pixel-art puzzle-platformer where you play as a curious cat trying to escape from the house.
 
-Explore cozy environments, solve small puzzles, collect keys, and find your way through each level. The game focuses on a relaxing atmosphere, comfortable UI, and simple puzzle-solving.
+Explore cozy environments, solve small puzzles, collect keys, and find your way through each level. The game focuses on a relaxing atmosphere and simple puzzle-solving.
 
 ---
 
@@ -76,7 +76,10 @@ Automatic saving is available, so your progress can be preserved without manuall
 
 ##  Screenshots
 
-*Screenshots coming soon.*
+<img width="794" height="446" alt="image" src="https://github.com/user-attachments/assets/705795dd-f9ff-47aa-b91c-b016e34f310b" />
+<img width="794" height="446" alt="image" src="https://github.com/user-attachments/assets/dd3f7798-3588-426a-95b5-9f2aa0bc8113" />
+<img width="794" height="446" alt="image" src="https://github.com/user-attachments/assets/99e04419-63bf-4c29-8193-7e23f6b46e73" />
+<img width="794" height="446" alt="image" src="https://github.com/user-attachments/assets/b8f0a4e3-5cb8-44fb-8445-3762226088ae" />
 
 ---
 
